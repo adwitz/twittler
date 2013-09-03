@@ -35,7 +35,7 @@ table {
 
 .created_at {
 	color: black;
-	font-size:12px;
+	font-size:14px;
 	font-family: Cambria;
 	text-align:right;
 	margin-bottom: 10px;
@@ -45,8 +45,10 @@ table {
 }
 
 .tweet {
-	text-align:left;
 	font-size: 16px;
 	margin-top: 5px;
 	font-family: Cambria;
+}
+
+.user {
 }
